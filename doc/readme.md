@@ -251,5 +251,6 @@ $swap = (new Builder())
     ->add('xignite', ['token' => 'token'])
     ->add('russian_central_bank')
     ->add('cryptonator')
+    ->add('xe', ['account_id' => 'secret', 'api_key' => 'secret'])
     ->build();
 ```

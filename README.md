@@ -62,6 +62,7 @@ Here is the list of the currently implemented services.
 | [Russian Central Bank](http://http://www.cbr.ru) | * | RUB | Yes |
 | [currencylayer](https://currencylayer.com) | USD (free), * (paid) | * | Yes |
 | [Cryptonator](https://www.cryptonator.com) | * Crypto (Limited standard currencies) | * Crypto (Limited standard currencies)  | No |
+| [xe](https://xe.com) | * (paid) | * (paid) | Yes |
 | Array | * | * | Yes |
 
 ## Integrations

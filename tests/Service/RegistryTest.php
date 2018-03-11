@@ -25,6 +25,7 @@ use Exchanger\Service\WebserviceX;
 use Exchanger\Service\Xignite;
 use Exchanger\Service\Yahoo;
 use Exchanger\Service\RussianCentralBank;
+use Exchanger\Service\Xe;
 use Swap\Service\Registry;
 
 class RegistryTest extends \PHPUnit_Framework_TestCase
@@ -57,6 +58,7 @@ class RegistryTest extends \PHPUnit_Framework_TestCase
             ['yahoo', Yahoo::class],
             ['russian_central_bank', RussianCentralBank::class],
             ['cryptonator', Cryptonator::class],
+            ['xe', Xe::class],
         ];
     }
 
